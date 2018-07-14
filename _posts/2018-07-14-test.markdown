@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "this is henkblog test"
+date:   2018-07-14 11:41:30 +0800
+categories: henkblog test
+--
+
+这是我的第一篇博客，老婆鞭策的结果，新世界的开篇
